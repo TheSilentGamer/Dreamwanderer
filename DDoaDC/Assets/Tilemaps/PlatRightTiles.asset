@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: PlatRightTiles
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1250922851753152145, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: 7135181798098472482, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: -3500601643972166001, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: -5499390102901788759, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: -6561428912241103890, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: -8800854965943598838, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: 4334340293417927443, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  - {fileID: 5791870018436143526, guid: ff2c171fb062d1b4fbd24c15340e7cf4, type: 3}
+  m_MinSpeed: 15
+  m_MaxSpeed: 15
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
