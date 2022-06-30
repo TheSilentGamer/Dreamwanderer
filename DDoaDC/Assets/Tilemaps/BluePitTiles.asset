@@ -197,7 +197,7 @@ MonoBehaviour:
     - {x: 0, y: -1, z: 0}
     - {x: 1, y: -1, z: 0}
     - {x: 1, y: 0, z: 0}
-    m_RuleTransform: 4
+    m_RuleTransform: 1
   - m_Id: 10
     m_Sprites:
     - {fileID: 8903753286894238375, guid: eb6784d64f693f344914f8da5ea7379a, type: 3}
@@ -307,10 +307,9 @@ MonoBehaviour:
     m_Output: 0
     m_ColliderType: 1
     m_RandomTransform: 0
-    m_Neighbors: 0200000002000000010000000100000002000000
+    m_Neighbors: 02000000010000000100000002000000
     m_NeighborPositions:
     - {x: 0, y: -1, z: 0}
-    - {x: -1, y: -1, z: 0}
     - {x: 0, y: 1, z: 0}
     - {x: 1, y: 0, z: 0}
     - {x: -1, y: 0, z: 0}
@@ -446,7 +445,7 @@ MonoBehaviour:
     - {x: 1, y: -1, z: 0}
     - {x: 0, y: -1, z: 0}
     - {x: -1, y: 0, z: 0}
-    m_RuleTransform: 4
+    m_RuleTransform: 1
   - m_Id: 23
     m_Sprites:
     - {fileID: -8861621953274729555, guid: eb6784d64f693f344914f8da5ea7379a, type: 3}
@@ -465,7 +464,7 @@ MonoBehaviour:
     - {x: 1, y: 0, z: 0}
     - {x: 0, y: 1, z: 0}
     - {x: -1, y: 0, z: 0}
-    m_RuleTransform: 4
+    m_RuleTransform: 1
   - m_Id: 24
     m_Sprites:
     - {fileID: 2544707773893626120, guid: eb6784d64f693f344914f8da5ea7379a, type: 3}
