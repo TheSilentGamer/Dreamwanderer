@@ -1,0 +1,9 @@
+diff a/DDoaDC/UserSettings/EditorUserSettings.asset b/DDoaDC/UserSettings/EditorUserSettings.asset	(rejected hunks)
+@@ -17,6 +17,7 @@
+       value: 22424703114646680e0b0227036c7e05020215240a2734353e3d5326ece92021
+       flags: 0
+     RecentlyUsedScenePath-2:
++      value: 22424703114646680e0b0227036c7d1c0312352b362d68252320092a
+       flags: 0
+     vcSharedLogLevel:
+       value: 0d5e400f0650
