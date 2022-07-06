@@ -1,0 +1,9 @@
+diff a/DDoaDC/Assets/Tilemaps/BluePitTiles.asset b/DDoaDC/Assets/Tilemaps/BluePitTiles.asset	(rejected hunks)
+@@ -197,7 +197,6 @@
+     - {x: 0, y: -1, z: 0}
+     - {x: 1, y: -1, z: 0}
+     - {x: 1, y: 0, z: 0}
+-    m_RuleTransform: 4
+     m_RuleTransform: 1
+   - m_Id: 10
+     m_Sprites:
