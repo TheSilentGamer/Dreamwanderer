@@ -12,5 +12,4 @@ public class looptrack
     public bool F4Found;
     public bool F5Found;
 
-
 }
