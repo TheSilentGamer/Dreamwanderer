@@ -11,6 +11,7 @@ public class AI_Movement2D : MonoBehaviour
     public float AI_DirectionOffset = 5;
     bool canDo = true;
     public float waitTime = 2;
+    public LayerMask IgnoreLayer;
 
     void Start()
     {
@@ -33,7 +34,7 @@ public class AI_Movement2D : MonoBehaviour
 
     IEnumerator UpdateMovePoint()
     {
-        Debug.Log("UPdate pos");
+       // Debug.Log("UPdate pos");
         // Stop function from repeating
         canDo = false;
 
@@ -44,27 +45,27 @@ public class AI_Movement2D : MonoBehaviour
         //3. Set New MovePosition with Direction (add an offset)
         if (Direction == 0)
         {
-            Debug.Log("Move North");
+          //  Debug.Log("Move North");
             TargetPosition.y = TargetPosition.y + AI_DirectionOffset;
         }
         else if (Direction == 1)
         {
-            Debug.Log("Move East");
+          //  Debug.Log("Move East");
             TargetPosition.x = TargetPosition.x + AI_DirectionOffset;
         }
         else if (Direction == 2)
         {
-            Debug.Log("Move South");
+          //  Debug.Log("Move South");
             TargetPosition.y = TargetPosition.y - AI_DirectionOffset;
         }
         else if (Direction == 3)
         {
-            Debug.Log("Move West");
+          //  Debug.Log("Move West");
             TargetPosition.x = TargetPosition.x - AI_DirectionOffset;
         }
         else if (Direction == 4)
         {
-            Debug.Log("Sleep");
+          //  Debug.Log("Sleep");
         }
 
         yield return new WaitForSeconds(waitTime);
@@ -72,10 +73,18 @@ public class AI_Movement2D : MonoBehaviour
         canDo = true;
 
         // Check if AI can move in that direction
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, TargetPosition);
-        if (hit.collider == null)
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, TargetPosition, AI_DirectionOffset + 2);
+
+
+            Debug.DrawRay(transform.position, transform.forward, Color.green);
+
+            if (hit.collider == null)
         {
             Debug.Log("Good to go");
+        }
+        else if (hit.collider != null)
+        {
+            Debug.Log(hit.collider.gameObject.name);
         }
     }
 }
