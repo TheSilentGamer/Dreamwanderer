@@ -235,6 +235,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8013914817006635711, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8013914817006635843, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
       propertyPath: m_TileMatrixArray.Array.data[0].m_RefCount
       value: 32
@@ -267,9 +271,21 @@ PrefabInstance:
       propertyPath: m_Tiles.Array.data[5450].second.m_TileMatrixIndex
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8013914817810967057, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8013914818225376358, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8013914818440250321, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
       propertyPath: m_Layer
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8013914818440250321, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8013914818440250325, guid: 7e7816d757ac09649a0e1696ed3c9c2a, type: 3}
       propertyPath: m_TileMatrixArray.Array.data[0].m_RefCount
