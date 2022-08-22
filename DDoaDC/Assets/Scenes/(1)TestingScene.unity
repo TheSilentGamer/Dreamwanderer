@@ -502,32 +502,6 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
---- !u!1 &1030781220 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2774254930100762192, guid: 773f620b72a3d5b42bf6eec0e60561e3, type: 3}
-  m_PrefabInstance: {fileID: 2774254930264041610}
-  m_PrefabAsset: {fileID: 0}
---- !u!50 &1030781225
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1030781220}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
 --- !u!1 &1323956749
 GameObject:
   m_ObjectHideFlags: 0
@@ -645,7 +619,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1323956749}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.5, y: 0.5, z: 0}
+  m_LocalPosition: {x: 2.5, y: -1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -678,7 +652,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1337427863}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -876,7 +850,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 6676217871132477358, guid: 25195b746a663d44090ee138e886725b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -942,7 +916,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2774254930100762193, guid: 773f620b72a3d5b42bf6eec0e60561e3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: -1.15
       objectReference: {fileID: 0}
     - target: {fileID: 2774254930100762193, guid: 773f620b72a3d5b42bf6eec0e60561e3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -978,7 +952,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2774254930100762199, guid: 773f620b72a3d5b42bf6eec0e60561e3, type: 3}
       propertyPath: m_Offset.y
-      value: 0
+      value: -0.3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 773f620b72a3d5b42bf6eec0e60561e3, type: 3}
