@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AutumnForest.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BlueMapV2.unity
+    guid: 4684848a9c0a03f49b1f487f7b7b3771
+  - enabled: 1
+    path: Assets/Scenes/GreenLibrary.unity
+    guid: 4374917a696343e4ca45b4c9118d5885
+  - enabled: 1
+    path: Assets/Scenes/Road.unity
+    guid: 3034931fc8b8acd43b1c426e2e810b8a
   m_configObjects: {}
