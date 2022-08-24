@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class KeyCount : MonoBehaviour
 {
     public Text keyCount;
-    public static int KeyNumbers;
+    public int KeyNumbers;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,6 +17,6 @@ public class KeyCount : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        keyCount.text = KeyNumbers.ToString("0");
+        keyCount.text = KeyNumbers.ToString();
     }
 }
