@@ -1,124 +1,88 @@
 fileFormatVersion: 2
-guid: be44c9ffeecf95b4ab1ad111313ef67d
+guid: 7d1ea11126135554c8f3b9e9467a2996
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8995165360740999340
-    second: LogCabin_1
+      213: -7504858776876949093
+    second: BlueCorridorTilesTest-export_0
   - first:
-      213: -190599356411558987
-    second: LogCabin_2
+      213: 1632053207746638789
+    second: BlueCorridorTilesTest-export_1
   - first:
-      213: 8215995947070080820
-    second: LogCabin_3
+      213: -2020837746710964174
+    second: BlueCorridorTilesTest-export_2
   - first:
-      213: 2339476831686910246
-    second: LogCabin_4
+      213: -6453504643176293434
+    second: BlueCorridorTilesTest-export_3
   - first:
-      213: 6618641854885094026
-    second: LogCabin_5
+      213: -2037070643449743878
+    second: BlueCorridorTilesTest-export_4
   - first:
-      213: 3547108420860052702
-    second: LogCabin_6
+      213: 4984950907724517913
+    second: BlueCorridorTilesTest-export_5
   - first:
-      213: 264279289151512458
-    second: LogCabin_7
+      213: -4851533578925917743
+    second: BlueCorridorTilesTest-export_6
   - first:
-      213: 919811392037845866
-    second: LogCabin_8
+      213: -7965313268435082452
+    second: BlueCorridorTilesTest-export_7
   - first:
-      213: 5803734251869974926
-    second: LogCabin_9
+      213: -2137397370101360219
+    second: BlueCorridorTilesTest-export_8
   - first:
-      213: -5090016459585755082
-    second: LogCabin_10
+      213: 5308170794916728634
+    second: BlueCorridorTilesTest-export_9
   - first:
-      213: -2067865095049190644
-    second: LogCabin_11
+      213: 8051029869720376998
+    second: BlueCorridorTilesTest-export_10
   - first:
-      213: -6441899454605827360
-    second: LogCabin_12
+      213: -8699868395958164318
+    second: BlueCorridorTilesTest-export_11
   - first:
-      213: -2648377970486638048
-    second: LogCabin_13
+      213: -8201805448514528288
+    second: BlueCorridorTilesTest-export_12
   - first:
-      213: -3543758822597256858
-    second: LogCabin_14
+      213: 1071503290447346037
+    second: BlueCorridorTilesTest-export_13
   - first:
-      213: 6954220507760135725
-    second: LogCabin_15
+      213: 7653599650850924502
+    second: BlueCorridorTilesTest-export_14
   - first:
-      213: 5472824862290863041
-    second: LogCabin_16
+      213: -1511869554874007533
+    second: BlueCorridorTilesTest-export_15
   - first:
-      213: -8272079581971739660
-    second: LogCabin_17
+      213: -157992911963375372
+    second: BlueCorridorTilesTest-export_16
   - first:
-      213: 5016797264879285549
-    second: LogCabin_18
+      213: -4668123768840019075
+    second: BlueCorridorTilesTest-export_17
   - first:
-      213: -2020062273057947878
-    second: LogCabin_19
+      213: 4011851576555420253
+    second: BlueCorridorTilesTest-export_18
   - first:
-      213: -1565859358197581543
-    second: LogCabin_20
+      213: 6544840418110916868
+    second: BlueCorridorTilesTest-export_19
   - first:
-      213: 5667040312026396721
-    second: LogCabin_21
+      213: 5129621154698688701
+    second: BlueCorridorTilesTest-export_20
   - first:
-      213: -372408768959233219
-    second: LogCabin_22
+      213: -2665407509358615377
+    second: BlueCorridorTilesTest-export_21
   - first:
-      213: 3722252884007909210
-    second: LogCabin_23
+      213: -1821177944073720318
+    second: BlueCorridorTilesTest-export_22
   - first:
-      213: -1881556931878462349
-    second: LogCabin_24
+      213: -3473191948176587149
+    second: BlueCorridorTilesTest-export_23
   - first:
-      213: -8708358176811448021
-    second: LogCabin_25
+      213: 9027066548787274619
+    second: BlueCorridorTilesTest-export_24
   - first:
-      213: -315436855793657686
-    second: LogCabin_26
+      213: -6710978358772752187
+    second: BlueCorridorTilesTest-export_25
   - first:
-      213: -3101986191047133537
-    second: LogCabin_27
-  - first:
-      213: 21594591567894034
-    second: LogCabin_28
-  - first:
-      213: -7869441503054707788
-    second: LogCabin_29
-  - first:
-      213: 4548738601433839633
-    second: LogCabin_30
-  - first:
-      213: 6845425063018920470
-    second: LogCabin_31
-  - first:
-      213: -4280650436988819740
-    second: LogCabin_32
-  - first:
-      213: 7607683563597169657
-    second: LogCabin_33
-  - first:
-      213: 5238338808254122783
-    second: LogCabin_34
-  - first:
-      213: -1719421580118520705
-    second: LogCabin_35
-  - first:
-      213: 4449021747936384857
-    second: LogCabin_36
-  - first:
-      213: -2212453215012528176
-    second: LogCabin_37
-  - first:
-      213: -2828299075751845574
-    second: LogCabin_38
-  - first:
-      213: -5629453676514118635
-    second: LogCabin_39
+      213: 2407137184808287670
+    second: BlueCorridorTilesTest-export_26
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -159,7 +123,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 2
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -256,11 +220,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LogCabin_1
+      name: BlueCorridorTilesTest-export_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 320
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -270,39 +234,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45f522943c0ca2380800000000000000
-      internalID: -8995165360740999340
+      spriteID: b91e6c274b269d790800000000000000
+      internalID: -7504858776876949093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b3cbaa25eada5df0800000000000000
-      internalID: -190599356411558987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_3
+      name: BlueCorridorTilesTest-export_1
       rect:
         serializedVersion: 2
         x: 128
-        y: 320
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -312,18 +255,165 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 437492d98c4150270800000000000000
-      internalID: 8215995947070080820
+      spriteID: 5c37646deb736a610800000000000000
+      internalID: 1632053207746638789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_4
+      name: BlueCorridorTilesTest-export_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389796b6ca84f3e0800000000000000
+      internalID: -2020837746710964174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb942b18bb8076a0800000000000000
+      internalID: -6453504643176293434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53dcaea0fdab3e0800000000000000
+      internalID: -2037070643449743878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125ead607a1e2540800000000000000
+      internalID: 4984950907724517913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9bd3c1ae3ebacb0800000000000000
+      internalID: -4851533578925917743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a83ec8c5857190800000000000000
+      internalID: -7965313268435082452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a911439a607652e0800000000000000
+      internalID: -2137397370101360219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_9
       rect:
         serializedVersion: 2
         x: 192
-        y: 320
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -333,39 +423,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62164f888cd777020800000000000000
-      internalID: 2339476831686910246
+      spriteID: a3f4d1ec6396aa940800000000000000
+      internalID: 5308170794916728634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_5
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8265ff23b32adb50800000000000000
-      internalID: 6618641854885094026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_6
+      name: BlueCorridorTilesTest-export_10
       rect:
         serializedVersion: 2
         x: 320
-        y: 320
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -375,18 +444,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed4092db05cd93130800000000000000
-      internalID: 3547108420860052702
+      spriteID: 6a61eb4a2010bbf60800000000000000
+      internalID: 8051029869720376998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_7
+      name: BlueCorridorTilesTest-export_11
       rect:
         serializedVersion: 2
-        x: 384
-        y: 320
+        x: 448
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -396,18 +465,81 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8f5e5ffc98eaa300800000000000000
-      internalID: 264279289151512458
+      spriteID: 2a4244aa9cbd34780800000000000000
+      internalID: -8699868395958164318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_8
+      name: BlueCorridorTilesTest-export_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb9d6c46655d2e80800000000000000
+      internalID: -8201805448514528288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b6cac09ebede00800000000000000
+      internalID: 1071503290447346037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e50af45c073a60800000000000000
+      internalID: 7653599650850924502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_15
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
+        y: 64
         width: 64
         height: 64
       alignment: 0
@@ -417,39 +549,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6bf5c27693d3cc00800000000000000
-      internalID: 919811392037845866
+      spriteID: 310c10b66a2c40be0800000000000000
+      internalID: -1511869554874007533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_9
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e813a757d810b8050800000000000000
-      internalID: 5803734251869974926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_10
+      name: BlueCorridorTilesTest-export_16
       rect:
         serializedVersion: 2
         x: 128
-        y: 256
+        y: 64
         width: 64
         height: 64
       alignment: 0
@@ -459,500 +570,164 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 638ef718ff0ac59b0800000000000000
-      internalID: -5090016459585755082
+      spriteID: 4f8b46d9842becdf0800000000000000
+      internalID: -157992911963375372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_11
+      name: BlueCorridorTilesTest-export_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73abbe3a2e773fb0800000000000000
+      internalID: -4668123768840019075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3d20d0c5fca730800000000000000
+      internalID: 4011851576555420253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ce192fa1f3da50800000000000000
+      internalID: 6544840418110916868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f4262343103740800000000000000
+      internalID: 5129621154698688701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4650ffdf1920bd0800000000000000
+      internalID: -2665407509358615377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea5b21f40e9b6e0800000000000000
+      internalID: -1821177944073720318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376003c235ebccfc0800000000000000
+      internalID: -3473191948176587149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCorridorTilesTest-export_24
       rect:
         serializedVersion: 2
         x: 192
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c03e92ee6a77d43e0800000000000000
-      internalID: -2067865095049190644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_12
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e2ef61a396c996a0800000000000000
-      internalID: -6441899454605827360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_13
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02a8c2e74421f3bd0800000000000000
-      internalID: -2648377970486638048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_14
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6691f61602a02dec0800000000000000
-      internalID: -3543758822597256858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2e87cee4ba528060800000000000000
-      internalID: 6954220507760135725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_16
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c3e5ca473163fb40800000000000000
-      internalID: 5472824862290863041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_17
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fb00d2927ba33d80800000000000000
-      internalID: -8272079581971739660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_18
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d25f743488e3f9540800000000000000
-      internalID: 5016797264879285549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_19
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1f763eb01c47f3e0800000000000000
-      internalID: -2020062273057947878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_20
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9197962c533f44ae0800000000000000
-      internalID: -1565859358197581543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_21
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 138f626732f55ae40800000000000000
-      internalID: 5667040312026396721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_22
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d33c1fe9230f4daf0800000000000000
-      internalID: -372408768959233219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_23
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a57f673d64918a330800000000000000
-      internalID: 3722252884007909210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_24
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37cd5ba70fd53e5e0800000000000000
-      internalID: -1881556931878462349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_25
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2909468062b52780800000000000000
-      internalID: -8708358176811448021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_26
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa85a55d9d75f9bf0800000000000000
-      internalID: -315436855793657686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_27
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f96f7788ef783f4d0800000000000000
-      internalID: -3101986191047133537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_28
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2165977aa28bc4000800000000000000
-      internalID: 21594591567894034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_29
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b345b5a5a02ac290800000000000000
-      internalID: -7869441503054707788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_30
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 118329268ad502f30800000000000000
-      internalID: 4548738601433839633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_31
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61a7cc183d5dffe50800000000000000
-      internalID: 6845425063018920470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_32
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e629af7b131894c0800000000000000
-      internalID: -4280650436988819740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_33
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f389c3d4ebe39960800000000000000
-      internalID: 7607683563597169657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_34
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
         width: 64
         height: 64
@@ -963,77 +738,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1b4127646152b840800000000000000
-      internalID: 5238338808254122783
+      spriteID: b73e64cd235964d70800000000000000
+      internalID: 9027066548787274619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_35
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7c05e9ce236328e0800000000000000
-      internalID: -1719421580118520705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_36
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9575cb335b91ebd30800000000000000
-      internalID: 4449021747936384857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_37
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0dfd105e589cb41e0800000000000000
-      internalID: -2212453215012528176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LogCabin_38
+      name: BlueCorridorTilesTest-export_25
       rect:
         serializedVersion: 2
         x: 320
@@ -1047,17 +759,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a31ee3fb9fcdfb8d0800000000000000
-      internalID: -2828299075751845574
+      spriteID: 5c0240e2db0ddd2a0800000000000000
+      internalID: -6710978358772752187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LogCabin_39
+      name: BlueCorridorTilesTest-export_26
       rect:
         serializedVersion: 2
-        x: 384
+        x: 448
         y: 0
         width: 64
         height: 64
@@ -1068,8 +780,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 514fbd315b920e1b0800000000000000
-      internalID: -5629453676514118635
+      spriteID: 6bdb12a148ed76120800000000000000
+      internalID: 2407137184808287670
       vertices: []
       indices: 
       edges: []
