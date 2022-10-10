@@ -26,6 +26,30 @@ TextureImporter:
   - first:
       213: -3160717685870794337
     second: bookworm-Recovered_7
+  - first:
+      213: -8183856791926961333
+    second: bookworm-Recovered_8
+  - first:
+      213: 5212956720140620541
+    second: bookworm-Recovered_9
+  - first:
+      213: -5599217768027582509
+    second: bookworm-Recovered_10
+  - first:
+      213: -3768028345344442362
+    second: bookworm-Recovered_11
+  - first:
+      213: -1483758327726544054
+    second: bookworm-Recovered_12
+  - first:
+      213: 9128781463792302988
+    second: bookworm-Recovered_13
+  - first:
+      213: 5526962291598331146
+    second: bookworm-Recovered_14
+  - first:
+      213: 4921600531452558184
+    second: bookworm-Recovered_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -166,12 +190,12 @@ TextureImporter:
       name: bookworm-Recovered_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 144
-        width: 88
-        height: 100
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,12 +211,12 @@ TextureImporter:
       name: bookworm-Recovered_1
       rect:
         serializedVersion: 2
-        x: 136
-        y: 144
-        width: 116
-        height: 100
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,12 +232,12 @@ TextureImporter:
       name: bookworm-Recovered_2
       rect:
         serializedVersion: 2
-        x: 272
-        y: 140
-        width: 88
-        height: 100
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,12 +253,12 @@ TextureImporter:
       name: bookworm-Recovered_3
       rect:
         serializedVersion: 2
-        x: 392
-        y: 140
-        width: 116
-        height: 100
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,12 +274,12 @@ TextureImporter:
       name: bookworm-Recovered_4
       rect:
         serializedVersion: 2
-        x: 28
-        y: 12
-        width: 72
-        height: 104
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,12 +295,12 @@ TextureImporter:
       name: bookworm-Recovered_5
       rect:
         serializedVersion: 2
-        x: 156
-        y: 16
-        width: 72
-        height: 80
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,12 +316,12 @@ TextureImporter:
       name: bookworm-Recovered_6
       rect:
         serializedVersion: 2
-        x: 284
-        y: 8
-        width: 72
-        height: 104
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,12 +337,12 @@ TextureImporter:
       name: bookworm-Recovered_7
       rect:
         serializedVersion: 2
-        x: 412
-        y: 12
-        width: 72
-        height: 80
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -326,6 +350,174 @@ TextureImporter:
       bones: []
       spriteID: f99606ac200e224d0800000000000000
       internalID: -3160717685870794337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b86809b991d6e80800000000000000
+      internalID: -8183856791926961333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2977d7484285840800000000000000
+      internalID: 5212956720140620541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df09ac1b159b42b0800000000000000
+      internalID: -5599217768027582509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600442c0f2645bbc0800000000000000
+      internalID: -3768028345344442362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4be45789a1a86be0800000000000000
+      internalID: -1483758327726544054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb28dff52ffae70800000000000000
+      internalID: 9128781463792302988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d82bdcbe6b3bc40800000000000000
+      internalID: 5526962291598331146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookworm-Recovered_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7a9b8b990d4440800000000000000
+      internalID: 4921600531452558184
       vertices: []
       indices: 
       edges: []
