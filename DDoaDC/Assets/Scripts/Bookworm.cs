@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Bookworm : MonoBehaviour
 {
+    public SpriteRenderer spriteRenderer;
+
     public bool inRange = false;
     SpriteRenderer sr;
 
