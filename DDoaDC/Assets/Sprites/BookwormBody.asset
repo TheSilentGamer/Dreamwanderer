@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: BookwormBody
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Body
+    m_Hash: 2073732236
+    m_CategoryList:
+    - m_Name: Rstill
+      m_Hash: 1625382140
+      m_Sprite: {fileID: 6676217871132477358, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Rmove
+      m_Hash: 1250657234
+      m_Sprite: {fileID: 8055459796320272594, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Dstill
+      m_Hash: -1251033734
+      m_Sprite: {fileID: 4081129444025147187, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Dmove
+      m_Hash: -1523850768
+      m_Sprite: {fileID: -3160717685870794337, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Lstill
+      m_Hash: 1497186071
+      m_Sprite: {fileID: -5599217768027582509, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Lmove
+      m_Hash: -1789154767
+      m_Sprite: {fileID: -3768028345344442362, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Ustill
+      m_Hash: 2112121924
+      m_Sprite: {fileID: 5526962291598331146, guid: 25195b746a663d44090ee138e886725b, type: 3}
+    - m_Name: Umove
+      m_Hash: -122986558
+      m_Sprite: {fileID: 4921600531452558184, guid: 25195b746a663d44090ee138e886725b, type: 3}

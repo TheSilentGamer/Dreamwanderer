@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class AI_Movement2D : MonoBehaviour
 {
+    public Animator animator;
     public float moveSpeed = 5f;
     public Transform movePoint;
     public Vector3 TargetPosition;
@@ -47,21 +48,31 @@ public class AI_Movement2D : MonoBehaviour
         {
           //  Debug.Log("Move North");
             TargetPosition.y = TargetPosition.y + AI_DirectionOffset;
+            animator.SetInteger("StateCount", 5);
+            StartCoroutine(ChangeState(5));
         }
         else if (Direction == 1)
         {
-          //  Debug.Log("Move East");
+            //  Debug.Log("Move East");
             TargetPosition.x = TargetPosition.x + AI_DirectionOffset;
+            animator.SetInteger("StateCount", 3);
+            StartCoroutine(ChangeState(3));
         }
         else if (Direction == 2)
         {
-          //  Debug.Log("Move South");
+            //  Debug.Log("Move South");
             TargetPosition.y = TargetPosition.y - AI_DirectionOffset;
+            animator.SetInteger("StateCount", 7);
+            StartCoroutine(ChangeState(7));
+           
         }
         else if (Direction == 3)
         {
-          //  Debug.Log("Move West");
+            //  Debug.Log("Move West");
             TargetPosition.x = TargetPosition.x - AI_DirectionOffset;
+            animator.SetInteger("StateCount", 1);
+            StartCoroutine(ChangeState(1));
+            //    Invoke(animator.SetInt("StateCount", 2), 2);
         }
         else if (Direction == 4)
         {
@@ -86,5 +97,11 @@ public class AI_Movement2D : MonoBehaviour
         {
             Debug.Log(hit.collider.gameObject.name);
         }
+    }
+
+    public IEnumerator ChangeState(int stateNum)
+    {
+        yield return new WaitForSeconds(2);
+        animator.SetInteger("StateCount", stateNum + 1);
     }
 }

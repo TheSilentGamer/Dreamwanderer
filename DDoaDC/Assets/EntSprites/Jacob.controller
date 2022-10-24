@@ -11,9 +11,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: IsWalkingLR
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsNotUD
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 6985116499955415132}
   m_Solo: 0
@@ -39,13 +36,13 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -3430803208218993620}
-    m_Position: {x: 320, y: 80, z: 0}
+    m_Position: {x: 320, y: 60, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1695532653556541030}
-    m_Position: {x: 200, y: 240, z: 0}
+    m_Position: {x: 210, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6985116499955415132}
-    m_Position: {x: 440, y: 240, z: 0}
+    m_Position: {x: 430, y: 240, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -66,9 +63,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: IsWalkingUD
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsNotLR
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1695532653556541030}
@@ -123,8 +117,8 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: IsWalkingUD
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsNotLR
+  - m_ConditionMode: 2
+    m_ConditionEvent: IsWalkingLR
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -3430803208218993620}
@@ -151,8 +145,8 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: IsWalkingLR
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsNotUD
+  - m_ConditionMode: 2
+    m_ConditionEvent: IsWalkingUD
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -3430803208218993620}
@@ -210,31 +204,31 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsWalkingUD
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsWalkingLR
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsNotLR
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsNotUD
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -258,9 +252,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: IsWalkingUD
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsNotLR
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1695532653556541030}
@@ -314,9 +305,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: IsWalkingLR
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsNotUD
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 6985116499955415132}
