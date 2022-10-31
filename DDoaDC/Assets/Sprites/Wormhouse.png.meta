@@ -44,6 +44,15 @@ TextureImporter:
   - first:
       213: 4885324952929513851
     second: Wormhouse_14
+  - first:
+      213: 4581992484886943026
+    second: Wormhouse_10
+  - first:
+      213: -3168734565741009008
+    second: Wormhouse_15
+  - first:
+      213: 4123749728026206195
+    second: Wormhouse_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -470,6 +479,69 @@ TextureImporter:
       bones: []
       spriteID: b7137bf39292cc340800000000000000
       internalID: 4885324952929513851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wormhouse_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235123973e1869f30800000000000000
+      internalID: 4581992484886943026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wormhouse_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097618d73b46604d0800000000000000
+      internalID: -3168734565741009008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wormhouse_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9d9177808a3930800000000000000
+      internalID: 4123749728026206195
       vertices: []
       indices: 
       edges: []
