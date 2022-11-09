@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Road.unity
     guid: 3034931fc8b8acd43b1c426e2e810b8a
+  - enabled: 1
+    path: Assets/Scenes/PurplePlaza.unity
+    guid: c386e665b075c0e439cb5034110c3e80
   m_configObjects: {}
