@@ -11,12 +11,14 @@ public class teleport : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E))
         {
+            Debug.Log("E");
             if (currentTeleporer != null)
             {
                 transform.position = currentTeleporer.GetComponent<Teleporter>().GetDestination().position;
                 GameObject obj = GameObject.FindGameObjectWithTag("TestObject");
                 
                     obj.transform.position = teleportPoint.transform.position;
+                
             }
         }
     }
